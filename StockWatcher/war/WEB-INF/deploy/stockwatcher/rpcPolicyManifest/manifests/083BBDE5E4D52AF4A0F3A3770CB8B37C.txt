@@ -1,0 +1,2 @@
+serviceClass: ca.ubc.cs.cs410.client.GreetingService
+path: 635D0DA0AC09ADAD197B06E7EA5E6C57.gwt.rpc
